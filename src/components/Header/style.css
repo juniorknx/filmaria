@@ -1,0 +1,19 @@
+header {
+    border-bottom: solid 1px #d8d8d8;
+}
+
+.menu-head {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px 0;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-logo a {
+    font-size: 2em;
+    font-weight: 700;
+    color: rgb(59, 84, 138);
+}
