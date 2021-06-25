@@ -1,5 +1,5 @@
 header {
-    border-bottom: solid 1px #d8d8d8;
+    border-bottom: solid 1px #464646;
 }
 
 .menu-head {
@@ -15,8 +15,15 @@ header {
 .menu-logo a {
     font-size: 2em;
     font-weight: 700;
-    color: #e50914;
+    color: #fff;
+    font-style: oblique;
     letter-spacing: 0.1em;
+}
+
+.menu-logo span {
+  color: #e50c14;
+    font-size: 3em;
+    margin-right: 9px;
 }
 
 .menu-logo {

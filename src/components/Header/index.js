@@ -7,10 +7,11 @@ export function Header() {
         <header>
             <div className="menu-head">
                 <div className="menu-logo">
+                    <span>.</span>
                     <Link to="/">Filmaria</Link>
                 </div>               
                 <nav>
-                    <ButtonPrimary link="/contato" title="Favoritos" />
+                    <ButtonPrimary link="/favoritos" title="Favoritos" />
                 </nav>
             </div>
         </header>
