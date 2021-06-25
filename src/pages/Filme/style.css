@@ -1,0 +1,26 @@
+.movie-details {
+    display: flex;
+    margin: 100px auto;
+    max-width: 800px;
+}
+
+.movie-info h1, img, h2, p {
+    margin-bottom: 15px;
+}
+
+.movie-info > div > button > a {
+    color: #fff;
+    font-size: 17px;
+    border-radius: 3px;
+}
+
+.movie-info > div > button {
+    cursor: pointer;
+    background: red;
+    padding: 5px 20px 5px 20px;
+    margin: 0px 10px 0px 0px;
+    border: none;
+    color: #fff;
+    font-size: 17px;
+    border-radius: 3px;
+}
